@@ -5,23 +5,23 @@ import { useRef } from "react";
 
 const memories = [
   {
-    src: "/images/Screenshot 2025-02-14 at 12.19.48 PM.png",
+    src: "/valentine/images/Screenshot 2025-02-14 at 12.19.48 PM.png",
     caption: "Our trip to north georgia",
   },
   {
-    src: "/images/IMG_0034.JPG",
+    src: "/valentine/images/IMG_0034.JPG",
     caption: "Sauce house",
   },
   {
-    src: "/images/Screenshot 2025-02-14 at 12.18.21 PM.png",
+    src: "/valentine/images/Screenshot 2025-02-14 at 12.18.21 PM.png",
     caption: "Octopus balls",
   },
   {
-    src: "/images/Screenshot 2025-02-14 at 12.18.53 PM.png",
+    src: "/valentine/images/Screenshot 2025-02-14 at 12.18.53 PM.png",
     caption: "Shayna'a party",
   },
   {
-    src: "/images/Screenshot 2025-02-14 at 12.19.22 PM.png",
+    src: "/valentine/images/Screenshot 2025-02-14 at 12.19.22 PM.png",
     caption: "BANANA",
   }
 ];

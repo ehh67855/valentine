@@ -45,7 +45,7 @@ const GiftBox = () => {
 
           {/* Picture or Video Surprise */}
           <div className="mt-6">
-            <img src="/images/4-up on 1-18-25 at 2.19 PM (compiled).JPG" alt="Us Together" className="rounded-lg shadow-lg w-full" />
+            <img src="/valentine/images/4-up on 1-18-25 at 2.19 PM (compiled).JPG" alt="Us Together" className="rounded-lg shadow-lg w-full" />
           </div>
         </motion.div>
       )}
